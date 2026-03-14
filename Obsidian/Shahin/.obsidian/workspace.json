@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "5bb30bc3ebe4912e",
+    "type": "split",
+    "children": [
+      {
+        "id": "96dd569d710f7331",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba04bc9242b7da12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning-2026/01-Networking/Network Fundamental.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Network Fundamental"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "20ce87778139d075",
+    "type": "split",
+    "children": [
+      {
+        "id": "a593b218f8968996",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23d949504a7ab6a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1fcf472f72f7a6e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "25e34bcca48ca70b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1baa70cd6f9ec745",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4997d5e1f0795c1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 424,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3c129bb63ac55be1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c093e2aaaa2671cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40d3d06787dac62e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Roadmap for 12 months.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Roadmap for 12 months"
+            }
+          },
+          {
+            "id": "c6b3397556b808a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Roadmap for 12 months.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Roadmap for 12 months"
+            }
+          },
+          {
+            "id": "6383d34082913c37",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7b4c671f310ca9f1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6ca7ecb11fb1f6ba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Roadmap for 12 months.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Roadmap for 12 months"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ba04bc9242b7da12",
+  "lastOpenFiles": [
+    "+/starTopoWithHub.png",
+    "+/busNetwork.png",
+    "Untitled.md",
+    "+",
+    "Learning-2026/01-Networking/Network Fundamental.md",
+    "Learning-2026/01-Networking/The Complete Networking Fundamentals - Task Tracker.md",
+    "Learning-2026/10-Month Learning Roadmap (2026).md",
+    "Template/Template - Learning Task Tracker.md",
+    "Learning-2026/01-Networking/Certification CCNA.md",
+    "Template",
+    "Learning-2026/01-Networking",
+    "2026-03-10.md",
+    "Learning-2026",
+    "Configs for Fedora.md",
+    "Welcome.md",
+    "Untitled.canvas",
+    "FleetingNotes"
+  ]
+}
